@@ -1,8 +1,8 @@
 pipeline {
 
     agent any
-    tools { 
-    }
+     
+    
     stages {
         stage('Compile stage') {
             steps {
